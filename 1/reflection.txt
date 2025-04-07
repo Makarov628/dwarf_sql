@@ -21,11 +21,18 @@
 Я также переименовал файлы из предыдущего решения (нумерацию добавил файлам)
 Поэтому прикрепляю также обновленные ссылки на решения (ничего не исправлял)
 
-1)
-2)
-3)
-4)
-5)
-6)
-7)
-8)
+1) https://github.com/Makarov628/dwarf_sql/blob/main/1/1)%20Dwarfs%20and%20squads.sql
+
+2) https://github.com/Makarov628/dwarf_sql/blob/main/1/2)%20Miner%20without%20squad.sql
+
+3) https://github.com/Makarov628/dwarf_sql/blob/main/1/3)%20High%20priority%20pending%20tasks.sql
+
+4) https://github.com/Makarov628/dwarf_sql/blob/main/1/4)%20Count%20items%20by%20owner.sql
+
+5) https://github.com/Makarov628/dwarf_sql/blob/main/1/5)%20Count%20dwarves%20in%20squads.sql
+
+6) https://github.com/Makarov628/dwarf_sql/blob/main/1/6)%20Unfinished%20tasks%20count%20by%20profession.sql
+
+7) https://github.com/Makarov628/dwarf_sql/blob/main/1/7)%20Average%20age%20by%20item%20owners.sql
+
+8) https://github.com/Makarov628/dwarf_sql/blob/main/1/8)%20Dwarfs%20with%20no%20items%20and%20by%20greater%20then%20average%20age.sql
